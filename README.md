@@ -17,7 +17,7 @@ An Android app that helps Sabancı students find a compatible roommate through a
 Used official traffic accident, population and alcohol use data to check whether alcohol use and traffic accidents are correlated across Turkey's 81 provinces. Includes hypothesis tests along with regression, classification and clustering models.\
 `Python` `pandas` `SciPy` `scikit-learn` `Jupyter`
 
-**Digital Archiving Project**\
+**[Digital Archiving Project](https://github.com/AlicanCelik0/Digital-Ark)**\
 A desktop app that converts old file formats into web-friendly ones for archiving. A modified version of it is now used at Sabancı University's Information Center.\
 `Python` `Tkinter`
 
