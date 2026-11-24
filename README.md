@@ -23,7 +23,7 @@ A desktop app that converts old file formats into web-friendly ones for archivin
 
 ## Tech I use
 
-**Languages:** C++, Python, JavaScript, Dart, SQL\
+**Languages:** C++, Python, Dart\
 **Tools:** Git, PostgreSQL, Jest, Jira, Android Studio, Jupyter
 
 ## Contact
